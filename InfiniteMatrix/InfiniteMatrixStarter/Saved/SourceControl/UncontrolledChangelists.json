@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/pascaladhikary/Downloads/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/pascaladhikary/Downloads/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"/Users/pascaladhikary/Downloads/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_HealthPack.uasset"
+			]
+		}
+	]
+}
